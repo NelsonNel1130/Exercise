@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+}
+
+.TopBar{
+    background-color: green;
+    font-size: 50px;
+    font-weight: bolder;
+    padding-left: 10px ;
+}
+
+.content{
+    padding-left: 20px;
+}
+
